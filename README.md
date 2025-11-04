@@ -81,6 +81,7 @@ Kaustubh Thorat. "Quantum Cryptography: Principles, Protocols, and Applications.
 
 **Author:** Kaustubh Thorat  
 📧 Email: kaustubhthorat07@gmail.com 
+
 🌐 GitHub: https://github.com/Thorat-Kaustubh
 
 ---
